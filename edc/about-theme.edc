@@ -33,7 +33,7 @@ group { name: "e/theme/about";
             rel1.relative: 0.5 0.5;
             rel2.relative: 0.5 0.5;
             text { font: "Comic Sans MS:style=Bold"; size: 84;
-               text: "TheForce";
+               text: "Shortwave";
                min: 1 1;
                align: 0.5 0.5;
             }
@@ -53,7 +53,7 @@ group { name: "e/theme/about";
             rel2.to: "name";
             align: 0.5 1.0;
             text { font: "Comic Sans MS"; size: 12;
-               text: "Not the Dark theme for Enlightenment";
+               text: "Slighty Blue Theme for Enlightenment";
                min: 1 1;
                align: 0.5 1.0;
             }
