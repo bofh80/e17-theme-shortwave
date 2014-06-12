@@ -294,7 +294,7 @@ group { name: "e/widgets/ilist_odd";
    parts {
       part { name: "base";
          description { state: "default" 0.0;
-            color: 56 56 56 255;
+            color: 78 114 154 255;
          }
       }
    }
