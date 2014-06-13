@@ -27,8 +27,8 @@ group { name: "e/modules/start/main";
             image.normal: "big_arrow_up_shadow.png";
             rel1.to: "arrow_base";
             rel2.to: "arrow_base";
-            aspect: (17/14) (17/14);
-            max: 17 14;
+//            aspect: (17/14) (17/14);
+//            max: 17 14;
          }
          description { state: "down" 0.0;
             inherit: "default" 0.0;
@@ -52,8 +52,8 @@ group { name: "e/modules/start/main";
       part { name: "arrow";
          description { state: "default" 0.0;
             image.normal: "big_arrow_up.png";
-            aspect: (17/14) (17/14);
-            max: 17 14;
+//            aspect: (17/14) (17/14);
+//            max: 17 14;
          }
          description { state: "down" 0.0;
             inherit: "default" 0.0;
