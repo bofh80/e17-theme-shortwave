@@ -1,2 +1,2 @@
 #!/bin/sh
-edje_cc $@ -id . -fd . default.edc -o default.edj
+edje_cc $@ -id . -fd . default.edc -o shortwave.edj
